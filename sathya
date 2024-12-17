@@ -1,0 +1,14 @@
+1. Get Nix running on your system
+In this guide
+→ Get Nix running on your Linux or macOS system using nix-installer
+
+→ Verify that your installed Nix is working as expected
+
+The target audience for the quick start
+We wrote this Zero to Nix quick start with one specific audience in mind: people who have heard about Nix but don’t yet know much about it and aren’t quite sure where to start with the learning process. It’s intended less as a how-to guide for using Nix in your everyday workflows and more to provide a glimpse into Nix’s feature set and to provide some of those “a-ha!” moments that make you feel empowered to go further.
+
+If you’re already fairly familiar with Nix and are looking for specific guidance on using it in your day job, you may still get some value out of the quick start but you may be better served with more practical, guide-driven resources like nix.dev.
+
+Welcome! It’s great to see that you’re interested in Nix. In this quick start, we’ll get Nix installed on your system and provide you with a small taste of Nix’s feature set by accomplishing some practical things, such as creating a development environment and building a package using Nix.
+
+We recommend installing Nix using the Determinate Nix installer, a tool from Determinate Systems that tailors the installation process to your system. The installer supports these platforms:
